@@ -5,4 +5,4 @@ Lmao drop it in your addons folder.
 # Commands:  
 !killrich | Kills all players above 99HP.  
 !slowdown | Kills all players sprinting.  
-!doors | Toggles whether the cell doors are open or not. -- Meant for Jailbreak -- Shouldnt mess up the server at all though.   
+!doors | Toggles whether the cell doors are open or not. -- Meant for Jailbreak -- Shouldn't mess up the server at all though.   
